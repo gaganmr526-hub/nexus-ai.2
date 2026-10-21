@@ -1,0 +1,222 @@
+[
+  {
+    "id": "4b5305e5-17d2-582e-046a-0df5cafda613",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "AX-7 Electric Drive Unit",
+    "product_code": "AX7-EDU",
+    "description": "Synthetic demo product: AX-7 Electric Drive Unit",
+    "daily_demand": 12.0,
+    "revenue_per_unit": 8500.0,
+    "currency": "USD",
+    "created_at": "2024-04-06T12:00:00"
+  },
+  {
+    "id": "4e6384bb-3e49-3f43-b118-f68d6786d506",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "AX-5 Hybrid Powertrain",
+    "product_code": "AX5-HPT",
+    "description": "Synthetic demo product: AX-5 Hybrid Powertrain",
+    "daily_demand": 20.0,
+    "revenue_per_unit": 6200.0,
+    "currency": "USD",
+    "created_at": "2023-12-15T12:00:00"
+  },
+  {
+    "id": "8db06746-7927-9973-5e78-1fd794e0d3ba",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "SmartAxle Pro",
+    "product_code": "SAP-200",
+    "description": "Synthetic demo product: SmartAxle Pro",
+    "daily_demand": 35.0,
+    "revenue_per_unit": 3800.0,
+    "currency": "USD",
+    "created_at": "2024-01-18T12:00:00"
+  },
+  {
+    "id": "bef59fe6-ff23-3d5f-6ced-d15d58007c02",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "Autonomous Drive Controller",
+    "product_code": "ADC-900",
+    "description": "Synthetic demo product: Autonomous Drive Controller",
+    "daily_demand": 8.0,
+    "revenue_per_unit": 12000.0,
+    "currency": "USD",
+    "created_at": "2024-01-13T12:00:00"
+  },
+  {
+    "id": "7428a656-b3ee-4d3b-5a10-412954aebd1b",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "Thermal Management System",
+    "product_code": "TMS-440",
+    "description": "Synthetic demo product: Thermal Management System",
+    "daily_demand": 25.0,
+    "revenue_per_unit": 2200.0,
+    "currency": "USD",
+    "created_at": "2024-03-24T12:00:00"
+  },
+  {
+    "id": "1ee34dc4-3b04-8a8b-405b-fdc94e7ed827",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "Brake-by-Wire Module",
+    "product_code": "BBW-330",
+    "description": "Synthetic demo product: Brake-by-Wire Module",
+    "daily_demand": 40.0,
+    "revenue_per_unit": 1800.0,
+    "currency": "USD",
+    "created_at": "2024-04-13T12:00:00"
+  },
+  {
+    "id": "892e6161-be2d-740a-1e9b-23bc50c7c006",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "name": "Vehicle Control Unit",
+    "product_code": "VCU-880",
+    "description": "Synthetic demo product: Vehicle Control Unit",
+    "daily_demand": 18.0,
+    "revenue_per_unit": 4500.0,
+    "currency": "USD",
+    "created_at": "2023-12-08T12:00:00"
+  },
+  {
+    "id": "bd1531c8-3764-fbda-3108-d4482f65fafa",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "name": "VE-100 Battery Pack 100kWh",
+    "product_code": "VE100-BP",
+    "description": "Synthetic demo product: VE-100 Battery Pack 100kWh",
+    "daily_demand": 6.0,
+    "revenue_per_unit": 28000.0,
+    "currency": "USD",
+    "created_at": "2024-01-30T12:00:00"
+  },
+  {
+    "id": "fa02eaec-96ef-2ad6-b97e-670346c8adfe",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "name": "VE-50 Energy Storage Module",
+    "product_code": "VE50-ESM",
+    "description": "Synthetic demo product: VE-50 Energy Storage Module",
+    "daily_demand": 10.0,
+    "revenue_per_unit": 14000.0,
+    "currency": "USD",
+    "created_at": "2024-01-19T12:00:00"
+  },
+  {
+    "id": "19bc143e-fb02-bebb-4872-9a4d98c7472a",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "name": "GridEdge Stationary Storage",
+    "product_code": "GE-500",
+    "description": "Synthetic demo product: GridEdge Stationary Storage",
+    "daily_demand": 3.0,
+    "revenue_per_unit": 85000.0,
+    "currency": "USD",
+    "created_at": "2024-04-13T12:00:00"
+  },
+  {
+    "id": "2defe193-5c62-b3a2-3a3c-563e4bd6cee6",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "name": "PowerCell BMS Platform",
+    "product_code": "PCB-220",
+    "description": "Synthetic demo product: PowerCell BMS Platform",
+    "daily_demand": 15.0,
+    "revenue_per_unit": 8800.0,
+    "currency": "USD",
+    "created_at": "2024-03-16T12:00:00"
+  },
+  {
+    "id": "2067bdac-88bd-13d1-b540-b30e039f3a25",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "name": "FastCharge Unit 350kW",
+    "product_code": "FCU-350",
+    "description": "Synthetic demo product: FastCharge Unit 350kW",
+    "daily_demand": 5.0,
+    "revenue_per_unit": 42000.0,
+    "currency": "USD",
+    "created_at": "2024-03-23T12:00:00"
+  },
+  {
+    "id": "8da8eee4-0df5-6ac6-f96b-648a0ba6eab9",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "name": "Supercap Hybrid Module",
+    "product_code": "SHM-120",
+    "description": "Synthetic demo product: Supercap Hybrid Module",
+    "daily_demand": 8.0,
+    "revenue_per_unit": 6500.0,
+    "currency": "USD",
+    "created_at": "2024-03-19T12:00:00"
+  },
+  {
+    "id": "a34b6cf6-2053-da42-f1af-db65b289f224",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "OT-Pro Industrial Sensor Hub",
+    "product_code": "OT-ISH-10",
+    "description": "Synthetic demo product: OT-Pro Industrial Sensor Hub",
+    "daily_demand": 22.0,
+    "revenue_per_unit": 4200.0,
+    "currency": "USD",
+    "created_at": "2024-01-28T12:00:00"
+  },
+  {
+    "id": "92f5df7b-0323-d342-df6a-8f931a432f0a",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "OrionVision LiDAR System",
+    "product_code": "OV-LIDAR-3",
+    "description": "Synthetic demo product: OrionVision LiDAR System",
+    "daily_demand": 5.0,
+    "revenue_per_unit": 18500.0,
+    "currency": "USD",
+    "created_at": "2024-03-21T12:00:00"
+  },
+  {
+    "id": "5738811d-70c2-903f-7a8d-03aa782a65e0",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "EdgeCompute Module X1",
+    "product_code": "ECM-X1",
+    "description": "Synthetic demo product: EdgeCompute Module X1",
+    "daily_demand": 30.0,
+    "revenue_per_unit": 2800.0,
+    "currency": "USD",
+    "created_at": "2024-04-15T12:00:00"
+  },
+  {
+    "id": "f0e98b3b-40a2-6c60-0d27-0659f72ada9b",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "5G-IoT Gateway v3",
+    "product_code": "5GG-V3",
+    "description": "Synthetic demo product: 5G-IoT Gateway v3",
+    "daily_demand": 18.0,
+    "revenue_per_unit": 1900.0,
+    "currency": "USD",
+    "created_at": "2024-01-31T12:00:00"
+  },
+  {
+    "id": "6694c343-10ba-58e3-d276-2bdc1d34d08e",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "OT-Display 4K Industrial",
+    "product_code": "OT-D4K",
+    "description": "Synthetic demo product: OT-Display 4K Industrial",
+    "daily_demand": 12.0,
+    "revenue_per_unit": 3400.0,
+    "currency": "USD",
+    "created_at": "2024-01-28T12:00:00"
+  },
+  {
+    "id": "afbb411a-a123-5a8c-93b7-a88612f70c97",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "SmartSensor Array 64ch",
+    "product_code": "SSA-64",
+    "description": "Synthetic demo product: SmartSensor Array 64ch",
+    "daily_demand": 8.0,
+    "revenue_per_unit": 7200.0,
+    "currency": "USD",
+    "created_at": "2024-05-19T12:00:00"
+  },
+  {
+    "id": "90164161-cfa7-01cd-2631-d00b26d794d3",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "name": "OT-Connect Telematics Unit",
+    "product_code": "OCT-220",
+    "description": "Synthetic demo product: OT-Connect Telematics Unit",
+    "daily_demand": 25.0,
+    "revenue_per_unit": 1200.0,
+    "currency": "USD",
+    "created_at": "2024-03-16T12:00:00"
+  }
+]

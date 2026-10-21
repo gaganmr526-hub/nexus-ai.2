@@ -1,0 +1,110 @@
+[
+  {
+    "id": "327375bf-5373-bf4d-5da4-9cb92fdc9992",
+    "user_id": "96da1dac-72ff-5d2a-386e-cbe06b65a6a4",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "title": "Demo Notification 1",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "risk_alert",
+    "is_read": false,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2023-12-13T12:00:00"
+  },
+  {
+    "id": "f7464c02-8718-54c1-7d4e-d26edcd5bfae",
+    "user_id": "96da1dac-72ff-5d2a-386e-cbe06b65a6a4",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "title": "Demo Notification 2",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "scenario_complete",
+    "is_read": false,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2023-12-28T12:00:00"
+  },
+  {
+    "id": "591196dc-1d3e-503a-9645-f0e4647dc392",
+    "user_id": "96da1dac-72ff-5d2a-386e-cbe06b65a6a4",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "title": "Demo Notification 3",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "scenario_complete",
+    "is_read": true,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2023-12-12T12:00:00"
+  },
+  {
+    "id": "eb2ec80e-4c25-5823-ccf4-ffb0b4bba73f",
+    "user_id": "b2b9437a-28df-6ec4-ce4a-2bbdc241330b",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "title": "Demo Notification 1",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "import_done",
+    "is_read": true,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2023-12-12T12:00:00"
+  },
+  {
+    "id": "3d131a3d-1e2c-2e7d-502c-f0ee224a66a6",
+    "user_id": "b2b9437a-28df-6ec4-ce4a-2bbdc241330b",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "title": "Demo Notification 2",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "risk_alert",
+    "is_read": true,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2024-02-27T12:00:00"
+  },
+  {
+    "id": "63725424-82c5-6b21-2430-12dab1850eb8",
+    "user_id": "b2b9437a-28df-6ec4-ce4a-2bbdc241330b",
+    "company_id": "16419f82-8b9d-2434-e465-e150bd9c66b3",
+    "title": "Demo Notification 3",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "import_done",
+    "is_read": true,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2024-01-06T12:00:00"
+  },
+  {
+    "id": "7c966b55-2f8d-8ded-6c4c-450b623ad0fc",
+    "user_id": "f50bea63-371e-cd7b-27cd-813047229389",
+    "company_id": "06cb0fb3-9a1d-e644-815e-f6d13b8faa18",
+    "title": "Demo Notification 1",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "import_done",
+    "is_read": true,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2024-01-11T12:00:00"
+  },
+  {
+    "id": "23ea7956-49f1-137d-7d59-2e192ab7b2ef",
+    "user_id": "f50bea63-371e-cd7b-27cd-813047229389",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "title": "Demo Notification 2",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "scenario_complete",
+    "is_read": false,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2023-12-26T12:00:00"
+  },
+  {
+    "id": "f3abea0d-5be9-fdb3-dd92-dd7c0db977a9",
+    "user_id": "f50bea63-371e-cd7b-27cd-813047229389",
+    "company_id": "bdd640fb-0667-1ad1-1c80-317fa3b1799d",
+    "title": "Demo Notification 3",
+    "message": "This is a synthetic notification for demo purposes.",
+    "notification_type": "scenario_complete",
+    "is_read": true,
+    "related_entity_type": "RiskFinding",
+    "related_entity_id": "01547950-176d-e21f-1b46-ebdc5c56d9bc",
+    "created_at": "2024-04-13T12:00:00"
+  }
+]

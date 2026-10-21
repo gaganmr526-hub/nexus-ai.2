@@ -1,0 +1,474 @@
+[
+  {
+    "id": "9b37a22b-6a8a-616f-c3b2-90d08edddfcd",
+    "product_id": "4b5305e5-17d2-582e-046a-0df5cafda613",
+    "component_id": "f54ad0a2-e874-66d7-ad66-a1bd93676a02",
+    "quantity_required": 5.2,
+    "unit": "unit",
+    "created_at": "2023-12-26T12:00:00"
+  },
+  {
+    "id": "61607459-85c7-504b-c693-da1139c6a1ca",
+    "product_id": "4b5305e5-17d2-582e-046a-0df5cafda613",
+    "component_id": "2af43ab7-5e6f-ea07-c453-6f1d41992fdf",
+    "quantity_required": 4.2,
+    "unit": "unit",
+    "created_at": "2024-02-09T12:00:00"
+  },
+  {
+    "id": "0f6b40d0-9efb-a58b-9191-b3634e2d6645",
+    "product_id": "4e6384bb-3e49-3f43-b118-f68d6786d506",
+    "component_id": "3dc98290-15ea-bb27-30e9-12f2f2b43abf",
+    "quantity_required": 5.3,
+    "unit": "unit",
+    "created_at": "2024-05-07T12:00:00"
+  },
+  {
+    "id": "a021c0ca-3531-968d-c342-bd2bf295456e",
+    "product_id": "4e6384bb-3e49-3f43-b118-f68d6786d506",
+    "component_id": "eb6c1016-cee6-24d0-9dac-6e8345241ea6",
+    "quantity_required": 2.5,
+    "unit": "unit",
+    "created_at": "2023-12-15T12:00:00"
+  },
+  {
+    "id": "2c7f0b79-3d67-cde9-2834-e4c014c8b3b4",
+    "product_id": "4e6384bb-3e49-3f43-b118-f68d6786d506",
+    "component_id": "8186a576-11a7-2609-5edd-bbbfa9597663",
+    "quantity_required": 4.9,
+    "unit": "unit",
+    "created_at": "2024-04-22T12:00:00"
+  },
+  {
+    "id": "4a8ff810-784c-2f29-9804-02a2b07aa066",
+    "product_id": "8db06746-7927-9973-5e78-1fd794e0d3ba",
+    "component_id": "8186a576-11a7-2609-5edd-bbbfa9597663",
+    "quantity_required": 1.2,
+    "unit": "unit",
+    "created_at": "2024-03-20T12:00:00"
+  },
+  {
+    "id": "dc0f2fcf-b3f6-fe0d-4860-3b32b4fb0eb9",
+    "product_id": "8db06746-7927-9973-5e78-1fd794e0d3ba",
+    "component_id": "6b88f83d-d97d-c9cd-033d-2bce575aed2c",
+    "quantity_required": 4.2,
+    "unit": "unit",
+    "created_at": "2023-12-09T12:00:00"
+  },
+  {
+    "id": "96fc734d-a003-cd28-ca8f-3653c9af18f8",
+    "product_id": "bef59fe6-ff23-3d5f-6ced-d15d58007c02",
+    "component_id": "7da67785-b63b-4dc3-a559-e46379e13cea",
+    "quantity_required": 5.6,
+    "unit": "unit",
+    "created_at": "2024-04-12T12:00:00"
+  },
+  {
+    "id": "398d1ca6-8b68-70b5-1d61-fac36cd5e859",
+    "product_id": "bef59fe6-ff23-3d5f-6ced-d15d58007c02",
+    "component_id": "32c5bd89-b70b-3420-f104-3785658b2523",
+    "quantity_required": 5.5,
+    "unit": "unit",
+    "created_at": "2024-03-25T12:00:00"
+  },
+  {
+    "id": "9854ce4e-4ebf-a5c3-cae9-b4a72a79ea68",
+    "product_id": "7428a656-b3ee-4d3b-5a10-412954aebd1b",
+    "component_id": "770c7798-37cc-863b-f2a0-345990604f62",
+    "quantity_required": 6.2,
+    "unit": "unit",
+    "created_at": "2024-01-08T12:00:00"
+  },
+  {
+    "id": "1fd5a423-706c-5c56-49e2-623debd34616",
+    "product_id": "7428a656-b3ee-4d3b-5a10-412954aebd1b",
+    "component_id": "ab61a7b1-793b-4c32-2050-04943d114802",
+    "quantity_required": 4.3,
+    "unit": "unit",
+    "created_at": "2024-03-16T12:00:00"
+  },
+  {
+    "id": "9918ee46-1497-d658-7010-f7197e695d0d",
+    "product_id": "1ee34dc4-3b04-8a8b-405b-fdc94e7ed827",
+    "component_id": "8861fe18-58e2-5888-0a83-81bec85aca46",
+    "quantity_required": 1.3,
+    "unit": "unit",
+    "created_at": "2024-02-12T12:00:00"
+  },
+  {
+    "id": "40181c6e-9a8c-fa3c-5283-aac7bc0a6a5d",
+    "product_id": "1ee34dc4-3b04-8a8b-405b-fdc94e7ed827",
+    "component_id": "32c5bd89-b70b-3420-f104-3785658b2523",
+    "quantity_required": 1.2,
+    "unit": "unit",
+    "created_at": "2024-04-04T12:00:00"
+  },
+  {
+    "id": "dc4ad56b-d601-6237-ac9e-d156f63fce41",
+    "product_id": "1ee34dc4-3b04-8a8b-405b-fdc94e7ed827",
+    "component_id": "b5122df8-75b1-7a55-d426-2982e43e4288",
+    "quantity_required": 5.0,
+    "unit": "unit",
+    "created_at": "2024-05-27T12:00:00"
+  },
+  {
+    "id": "d248a9a7-ac1a-a554-c3c7-5611ffe3fa49",
+    "product_id": "1ee34dc4-3b04-8a8b-405b-fdc94e7ed827",
+    "component_id": "859131d2-bbda-0242-2d17-4fc96f7c15ea",
+    "quantity_required": 2.9,
+    "unit": "unit",
+    "created_at": "2024-05-22T12:00:00"
+  },
+  {
+    "id": "473544f9-ea83-bf00-7135-f221a6c9537f",
+    "product_id": "892e6161-be2d-740a-1e9b-23bc50c7c006",
+    "component_id": "5cb85aed-f5f6-2c97-6efb-63b11b049863",
+    "quantity_required": 2.3,
+    "unit": "unit",
+    "created_at": "2024-01-04T12:00:00"
+  },
+  {
+    "id": "7de1bdfe-d072-5b5c-a281-40446f962882",
+    "product_id": "892e6161-be2d-740a-1e9b-23bc50c7c006",
+    "component_id": "b5122df8-75b1-7a55-d426-2982e43e4288",
+    "quantity_required": 7.8,
+    "unit": "unit",
+    "created_at": "2024-02-02T12:00:00"
+  },
+  {
+    "id": "546e035a-292b-d156-db94-65701ac70ec0",
+    "product_id": "bd1531c8-3764-fbda-3108-d4482f65fafa",
+    "component_id": "8186a576-11a7-2609-5edd-bbbfa9597663",
+    "quantity_required": 3.9,
+    "unit": "unit",
+    "created_at": "2024-01-27T12:00:00"
+  },
+  {
+    "id": "668409e3-f1f8-343e-a99f-131849c8a43f",
+    "product_id": "bd1531c8-3764-fbda-3108-d4482f65fafa",
+    "component_id": "4d3485c5-c5c1-4eb4-b27b-3d901a16342c",
+    "quantity_required": 6.7,
+    "unit": "unit",
+    "created_at": "2024-01-13T12:00:00"
+  },
+  {
+    "id": "50843242-168b-1625-746f-78910964fbbf",
+    "product_id": "bd1531c8-3764-fbda-3108-d4482f65fafa",
+    "component_id": "3e6dd58b-7367-c28d-e1b2-94de4767d76c",
+    "quantity_required": 2.8,
+    "unit": "unit",
+    "created_at": "2024-05-03T12:00:00"
+  },
+  {
+    "id": "de8ede0b-a85c-6e4a-004b-6fabfcf56188",
+    "product_id": "fa02eaec-96ef-2ad6-b97e-670346c8adfe",
+    "component_id": "3dc98290-15ea-bb27-30e9-12f2f2b43abf",
+    "quantity_required": 4.8,
+    "unit": "unit",
+    "created_at": "2024-02-17T12:00:00"
+  },
+  {
+    "id": "5c9d927d-84b8-71bb-3005-68d20de051a6",
+    "product_id": "fa02eaec-96ef-2ad6-b97e-670346c8adfe",
+    "component_id": "b5122df8-75b1-7a55-d426-2982e43e4288",
+    "quantity_required": 5.4,
+    "unit": "unit",
+    "created_at": "2024-01-26T12:00:00"
+  },
+  {
+    "id": "0d366dfc-c28e-bd70-7129-9889a01ac992",
+    "product_id": "fa02eaec-96ef-2ad6-b97e-670346c8adfe",
+    "component_id": "0299436a-8e48-5223-46b9-8991e14eb70d",
+    "quantity_required": 2.4,
+    "unit": "unit",
+    "created_at": "2024-01-13T12:00:00"
+  },
+  {
+    "id": "7c16128d-b2c0-8394-e17f-29e170286046",
+    "product_id": "19bc143e-fb02-bebb-4872-9a4d98c7472a",
+    "component_id": "7da67785-b63b-4dc3-a559-e46379e13cea",
+    "quantity_required": 1.8,
+    "unit": "unit",
+    "created_at": "2023-12-23T12:00:00"
+  },
+  {
+    "id": "b5b453ca-3d42-993c-cc9f-d3349bdf0377",
+    "product_id": "19bc143e-fb02-bebb-4872-9a4d98c7472a",
+    "component_id": "a092f52a-d4a0-57a7-b0cc-1b3b9793b9b4",
+    "quantity_required": 2.1,
+    "unit": "unit",
+    "created_at": "2024-01-12T12:00:00"
+  },
+  {
+    "id": "d7665cda-fe04-9059-3985-fb6217dc8eff",
+    "product_id": "2defe193-5c62-b3a2-3a3c-563e4bd6cee6",
+    "component_id": "859131d2-bbda-0242-2d17-4fc96f7c15ea",
+    "quantity_required": 7.4,
+    "unit": "unit",
+    "created_at": "2024-02-04T12:00:00"
+  },
+  {
+    "id": "d50755d9-a5d0-4d53-1e12-42e3f27292b6",
+    "product_id": "2defe193-5c62-b3a2-3a3c-563e4bd6cee6",
+    "component_id": "8186a576-11a7-2609-5edd-bbbfa9597663",
+    "quantity_required": 2.1,
+    "unit": "unit",
+    "created_at": "2024-03-19T12:00:00"
+  },
+  {
+    "id": "3e652603-78e3-654b-faf1-4ff07b85179a",
+    "product_id": "2067bdac-88bd-13d1-b540-b30e039f3a25",
+    "component_id": "6105716b-ab0e-664e-9c3e-b2d591e1aa96",
+    "quantity_required": 4.2,
+    "unit": "unit",
+    "created_at": "2024-04-25T12:00:00"
+  },
+  {
+    "id": "9970cf60-ebff-8d15-30cb-d7556232b17a",
+    "product_id": "2067bdac-88bd-13d1-b540-b30e039f3a25",
+    "component_id": "32c5bd89-b70b-3420-f104-3785658b2523",
+    "quantity_required": 4.6,
+    "unit": "unit",
+    "created_at": "2024-04-28T12:00:00"
+  },
+  {
+    "id": "c5ce099c-46b8-2659-11df-12d7dd30de89",
+    "product_id": "2067bdac-88bd-13d1-b540-b30e039f3a25",
+    "component_id": "8186a576-11a7-2609-5edd-bbbfa9597663",
+    "quantity_required": 6.5,
+    "unit": "unit",
+    "created_at": "2024-02-16T12:00:00"
+  },
+  {
+    "id": "81fb18b3-c9a7-d91f-ef2a-e71357021049",
+    "product_id": "2067bdac-88bd-13d1-b540-b30e039f3a25",
+    "component_id": "0299436a-8e48-5223-46b9-8991e14eb70d",
+    "quantity_required": 2.9,
+    "unit": "unit",
+    "created_at": "2024-06-01T12:00:00"
+  },
+  {
+    "id": "a8f1e091-ffb8-102d-9475-dbc996418ced",
+    "product_id": "8da8eee4-0df5-6ac6-f96b-648a0ba6eab9",
+    "component_id": "533420e6-d9d8-0b8d-7e8a-dee70758e201",
+    "quantity_required": 4.4,
+    "unit": "unit",
+    "created_at": "2024-04-24T12:00:00"
+  },
+  {
+    "id": "585a0afa-7bfd-cc12-89e0-6ab37250ee18",
+    "product_id": "8da8eee4-0df5-6ac6-f96b-648a0ba6eab9",
+    "component_id": "a092f52a-d4a0-57a7-b0cc-1b3b9793b9b4",
+    "quantity_required": 3.3,
+    "unit": "unit",
+    "created_at": "2024-01-14T12:00:00"
+  },
+  {
+    "id": "5260001e-eecf-67d2-7491-76f46090d697",
+    "product_id": "8da8eee4-0df5-6ac6-f96b-648a0ba6eab9",
+    "component_id": "0299436a-8e48-5223-46b9-8991e14eb70d",
+    "quantity_required": 7.1,
+    "unit": "unit",
+    "created_at": "2023-12-06T12:00:00"
+  },
+  {
+    "id": "69288e92-c68a-152f-db23-aa8c3bcabf85",
+    "product_id": "a34b6cf6-2053-da42-f1af-db65b289f224",
+    "component_id": "eb6c1016-cee6-24d0-9dac-6e8345241ea6",
+    "quantity_required": 1.3,
+    "unit": "unit",
+    "created_at": "2024-02-01T12:00:00"
+  },
+  {
+    "id": "61985d54-cfb8-7e6f-e9d6-8f23b489d070",
+    "product_id": "a34b6cf6-2053-da42-f1af-db65b289f224",
+    "component_id": "8861fe18-58e2-5888-0a83-81bec85aca46",
+    "quantity_required": 3.7,
+    "unit": "unit",
+    "created_at": "2023-12-15T12:00:00"
+  },
+  {
+    "id": "dea4ae17-54fd-9ad3-9716-108ef72169bb",
+    "product_id": "92f5df7b-0323-d342-df6a-8f931a432f0a",
+    "component_id": "b7e6427c-bf78-0e3f-f6b7-51f79b749245",
+    "quantity_required": 1.7,
+    "unit": "unit",
+    "created_at": "2024-02-10T12:00:00"
+  },
+  {
+    "id": "74f93d17-e912-b4bf-86a4-bae41986b4b2",
+    "product_id": "92f5df7b-0323-d342-df6a-8f931a432f0a",
+    "component_id": "5cb85aed-f5f6-2c97-6efb-63b11b049863",
+    "quantity_required": 1.1,
+    "unit": "unit",
+    "created_at": "2024-04-26T12:00:00"
+  },
+  {
+    "id": "f84f16b3-a79f-bfaf-def5-768968f45bce",
+    "product_id": "92f5df7b-0323-d342-df6a-8f931a432f0a",
+    "component_id": "ab61a7b1-793b-4c32-2050-04943d114802",
+    "quantity_required": 2.1,
+    "unit": "unit",
+    "created_at": "2024-02-02T12:00:00"
+  },
+  {
+    "id": "56abf2f1-43d8-8870-f81d-baa1c8120a8e",
+    "product_id": "92f5df7b-0323-d342-df6a-8f931a432f0a",
+    "component_id": "b5122df8-75b1-7a55-d426-2982e43e4288",
+    "quantity_required": 5.4,
+    "unit": "unit",
+    "created_at": "2024-02-21T12:00:00"
+  },
+  {
+    "id": "f4427e0b-6148-4bb3-889b-78d5dbfdd97e",
+    "product_id": "5738811d-70c2-903f-7a8d-03aa782a65e0",
+    "component_id": "770c7798-37cc-863b-f2a0-345990604f62",
+    "quantity_required": 3.2,
+    "unit": "unit",
+    "created_at": "2024-01-29T12:00:00"
+  },
+  {
+    "id": "9e11d2cd-0930-aef6-8a80-068ddf547e50",
+    "product_id": "5738811d-70c2-903f-7a8d-03aa782a65e0",
+    "component_id": "3dc98290-15ea-bb27-30e9-12f2f2b43abf",
+    "quantity_required": 1.5,
+    "unit": "unit",
+    "created_at": "2023-12-23T12:00:00"
+  },
+  {
+    "id": "ff574e2b-4991-ab9b-ebc2-026faf34cf65",
+    "product_id": "5738811d-70c2-903f-7a8d-03aa782a65e0",
+    "component_id": "4d3485c5-c5c1-4eb4-b27b-3d901a16342c",
+    "quantity_required": 2.6,
+    "unit": "unit",
+    "created_at": "2024-05-09T12:00:00"
+  },
+  {
+    "id": "c2a79689-1933-918c-fa74-57616f18c108",
+    "product_id": "5738811d-70c2-903f-7a8d-03aa782a65e0",
+    "component_id": "3e6dd58b-7367-c28d-e1b2-94de4767d76c",
+    "quantity_required": 5.4,
+    "unit": "unit",
+    "created_at": "2024-05-07T12:00:00"
+  },
+  {
+    "id": "530a37df-0bc6-1066-0769-165fe746ccb9",
+    "product_id": "f0e98b3b-40a2-6c60-0d27-0659f72ada9b",
+    "component_id": "f6f7f0cc-29ec-8e49-d1bd-b8c0c71d5e60",
+    "quantity_required": 6.6,
+    "unit": "unit",
+    "created_at": "2024-03-18T12:00:00"
+  },
+  {
+    "id": "25440fe0-6e41-7d47-5ff5-95ea5bc440f1",
+    "product_id": "f0e98b3b-40a2-6c60-0d27-0659f72ada9b",
+    "component_id": "6105716b-ab0e-664e-9c3e-b2d591e1aa96",
+    "quantity_required": 2.7,
+    "unit": "unit",
+    "created_at": "2024-02-17T12:00:00"
+  },
+  {
+    "id": "2e183554-cae2-8e66-ae8a-781390e0a95b",
+    "product_id": "f0e98b3b-40a2-6c60-0d27-0659f72ada9b",
+    "component_id": "a092f52a-d4a0-57a7-b0cc-1b3b9793b9b4",
+    "quantity_required": 2.2,
+    "unit": "unit",
+    "created_at": "2024-05-12T12:00:00"
+  },
+  {
+    "id": "9549c931-e9af-299d-7f67-1eec3da70577",
+    "product_id": "6694c343-10ba-58e3-d276-2bdc1d34d08e",
+    "component_id": "3dc98290-15ea-bb27-30e9-12f2f2b43abf",
+    "quantity_required": 2.0,
+    "unit": "unit",
+    "created_at": "2024-02-04T12:00:00"
+  },
+  {
+    "id": "415d174a-75a6-6981-4104-a8b5a34db7c5",
+    "product_id": "6694c343-10ba-58e3-d276-2bdc1d34d08e",
+    "component_id": "8861fe18-58e2-5888-0a83-81bec85aca46",
+    "quantity_required": 5.7,
+    "unit": "unit",
+    "created_at": "2024-02-03T12:00:00"
+  },
+  {
+    "id": "8beddb12-ad77-e82f-49a2-3a89e6b5a92c",
+    "product_id": "6694c343-10ba-58e3-d276-2bdc1d34d08e",
+    "component_id": "6f81cf4f-7701-f7bb-7bc6-7e1fc64ee6e3",
+    "quantity_required": 2.1,
+    "unit": "unit",
+    "created_at": "2024-02-09T12:00:00"
+  },
+  {
+    "id": "966b1964-fcd6-bdca-5876-fd09f1faf665",
+    "product_id": "6694c343-10ba-58e3-d276-2bdc1d34d08e",
+    "component_id": "3e6dd58b-7367-c28d-e1b2-94de4767d76c",
+    "quantity_required": 3.1,
+    "unit": "unit",
+    "created_at": "2024-02-14T12:00:00"
+  },
+  {
+    "id": "da743152-627b-41a1-ffd6-f23232ffe294",
+    "product_id": "afbb411a-a123-5a8c-93b7-a88612f70c97",
+    "component_id": "32c5bd89-b70b-3420-f104-3785658b2523",
+    "quantity_required": 4.4,
+    "unit": "unit",
+    "created_at": "2024-04-02T12:00:00"
+  },
+  {
+    "id": "9326dffd-5be4-bf51-9269-869861a11729",
+    "product_id": "afbb411a-a123-5a8c-93b7-a88612f70c97",
+    "component_id": "6b88f83d-d97d-c9cd-033d-2bce575aed2c",
+    "quantity_required": 3.1,
+    "unit": "unit",
+    "created_at": "2023-12-05T12:00:00"
+  },
+  {
+    "id": "d47d577b-fa5a-91ca-059d-d55d4b943e30",
+    "product_id": "afbb411a-a123-5a8c-93b7-a88612f70c97",
+    "component_id": "3dc98290-15ea-bb27-30e9-12f2f2b43abf",
+    "quantity_required": 5.6,
+    "unit": "unit",
+    "created_at": "2024-03-23T12:00:00"
+  },
+  {
+    "id": "af908e3c-dd75-0e98-90e0-b95f0212b554",
+    "product_id": "afbb411a-a123-5a8c-93b7-a88612f70c97",
+    "component_id": "a092f52a-d4a0-57a7-b0cc-1b3b9793b9b4",
+    "quantity_required": 6.4,
+    "unit": "unit",
+    "created_at": "2024-05-20T12:00:00"
+  },
+  {
+    "id": "cc8218da-c696-f5e6-4944-051be726be23",
+    "product_id": "90164161-cfa7-01cd-2631-d00b26d794d3",
+    "component_id": "533420e6-d9d8-0b8d-7e8a-dee70758e201",
+    "quantity_required": 2.6,
+    "unit": "unit",
+    "created_at": "2024-03-03T12:00:00"
+  },
+  {
+    "id": "9ef2b93e-30ac-7d7b-a2f9-63a33810ae66",
+    "product_id": "90164161-cfa7-01cd-2631-d00b26d794d3",
+    "component_id": "5cb85aed-f5f6-2c97-6efb-63b11b049863",
+    "quantity_required": 2.8,
+    "unit": "unit",
+    "created_at": "2023-12-16T12:00:00"
+  },
+  {
+    "id": "a0d4de3d-2303-f6c6-d69d-42f1ae4c84ff",
+    "product_id": "90164161-cfa7-01cd-2631-d00b26d794d3",
+    "component_id": "0299436a-8e48-5223-46b9-8991e14eb70d",
+    "quantity_required": 1.7,
+    "unit": "unit",
+    "created_at": "2023-12-24T12:00:00"
+  },
+  {
+    "id": "c9e26074-4f16-39a0-0a17-991ea5769411",
+    "product_id": "90164161-cfa7-01cd-2631-d00b26d794d3",
+    "component_id": "3d85de89-c217-1429-8e20-07247d137018",
+    "quantity_required": 4.1,
+    "unit": "unit",
+    "created_at": "2024-01-05T12:00:00"
+  }
+]

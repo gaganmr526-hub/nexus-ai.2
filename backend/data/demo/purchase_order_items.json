@@ -1,0 +1,262 @@
+[
+  {
+    "id": "a0d572c8-a837-fe68-bba2-05ca3dba6da8",
+    "order_id": "8ddce719-81f3-8dd4-fd03-4adac9525185",
+    "component_id": "989d9d4a-e15c-a666-4797-b2c957207246",
+    "quantity": 43.0,
+    "unit_price": 68.0,
+    "currency": "USD",
+    "description": "Optical Lens Array",
+    "created_at": "2024-05-06T12:00:00"
+  },
+  {
+    "id": "0b599562-2227-219f-551f-f086c1b5b5ca",
+    "order_id": "8ddce719-81f3-8dd4-fd03-4adac9525185",
+    "component_id": "cc3ebdde-5ad5-cf06-364d-7c877cd0129d",
+    "quantity": 295.0,
+    "unit_price": 0.85,
+    "currency": "USD",
+    "description": "High-K Dielectric Capacitor",
+    "created_at": "2024-03-03T12:00:00"
+  },
+  {
+    "id": "0aba590e-e2c3-28aa-3310-7475ca862225",
+    "order_id": "d49405f0-2cd2-a404-a48e-40f1d0421dfa",
+    "component_id": "a092f52a-d4a0-57a7-b0cc-1b3b9793b9b4",
+    "quantity": 109.0,
+    "unit_price": 120.0,
+    "currency": "USD",
+    "description": "Axle Bearing Assembly",
+    "created_at": "2024-03-13T12:00:00"
+  },
+  {
+    "id": "6667d3bb-e3b5-6360-6fdc-0bad5e368127",
+    "order_id": "8b040f49-d0be-73ee-fd37-253965f202f9",
+    "component_id": "32c5bd89-b70b-3420-f104-3785658b2523",
+    "quantity": 71.0,
+    "unit_price": 185.0,
+    "currency": "USD",
+    "description": "4K OLED Display Panel",
+    "created_at": "2024-02-10T12:00:00"
+  },
+  {
+    "id": "7f072cb9-2fd3-40c0-f945-f2fd56cb1ab0",
+    "order_id": "8b040f49-d0be-73ee-fd37-253965f202f9",
+    "component_id": "3d85de89-c217-1429-8e20-07247d137018",
+    "quantity": 479.0,
+    "unit_price": 15.0,
+    "currency": "USD",
+    "description": "Thermal Interface Material",
+    "created_at": "2023-12-07T12:00:00"
+  },
+  {
+    "id": "4e76833a-4baf-0f5e-a932-009453f28f11",
+    "order_id": "4447ceab-84ef-4324-cc1b-4157ec9f9c54",
+    "component_id": "4d3485c5-c5c1-4eb4-b27b-3d901a16342c",
+    "quantity": 60.0,
+    "unit_price": 780.0,
+    "currency": "USD",
+    "description": "Wiring Harness Main",
+    "created_at": "2024-02-08T12:00:00"
+  },
+  {
+    "id": "59fefbbc-71a3-fad2-b094-6d2a2aa93b43",
+    "order_id": "4447ceab-84ef-4324-cc1b-4157ec9f9c54",
+    "component_id": "6f81cf4f-7701-f7bb-7bc6-7e1fc64ee6e3",
+    "quantity": 362.0,
+    "unit_price": 12.5,
+    "currency": "USD",
+    "description": "LED Driver IC",
+    "created_at": "2024-02-08T12:00:00"
+  },
+  {
+    "id": "702c1821-c804-0fb7-ad97-3b679b89e5cb",
+    "order_id": "46494296-6f58-42c3-ff86-cc319d66e815",
+    "component_id": "9f0fda8d-0537-9ff6-d6d7-b3b833094d35",
+    "quantity": 80.0,
+    "unit_price": 285.0,
+    "currency": "USD",
+    "description": "Advanced Driver-Assist IC",
+    "created_at": "2024-05-24T12:00:00"
+  },
+  {
+    "id": "5df06e8c-878a-aed9-233f-fc8292ec89af",
+    "order_id": "5dc7b3e6-a529-64ff-c74c-c8903c6a3174",
+    "component_id": "6b88f83d-d97d-c9cd-033d-2bce575aed2c",
+    "quantity": 384.0,
+    "unit_price": 3800.0,
+    "currency": "USD",
+    "description": "Power Inverter Module 150kW",
+    "created_at": "2024-02-21T12:00:00"
+  },
+  {
+    "id": "06a241af-1d0a-f7f7-f5e4-a4713fe68c9c",
+    "order_id": "5dc7b3e6-a529-64ff-c74c-c8903c6a3174",
+    "component_id": "4d3485c5-c5c1-4eb4-b27b-3d901a16342c",
+    "quantity": 328.0,
+    "unit_price": 780.0,
+    "currency": "USD",
+    "description": "Wiring Harness Main",
+    "created_at": "2024-04-15T12:00:00"
+  },
+  {
+    "id": "2c33350c-73b9-11d8-12f5-131ada52d2ee",
+    "order_id": "1e2595b8-8fc9-c86b-e9dd-ebf563119aca",
+    "component_id": "edcb8cb6-0692-dc63-9424-aed51bac5c15",
+    "quantity": 70.0,
+    "unit_price": 340.0,
+    "currency": "USD",
+    "description": "FPGA Control Unit",
+    "created_at": "2024-02-09T12:00:00"
+  },
+  {
+    "id": "51d08109-fc90-2838-d874-1408f7b217c7",
+    "order_id": "1e2595b8-8fc9-c86b-e9dd-ebf563119aca",
+    "component_id": "770c7798-37cc-863b-f2a0-345990604f62",
+    "quantity": 407.0,
+    "unit_price": 180.0,
+    "currency": "USD",
+    "description": "Battery Management System IC",
+    "created_at": "2023-12-14T12:00:00"
+  },
+  {
+    "id": "5c63b6f3-06ba-8cd3-7e78-38c9ca55e38b",
+    "order_id": "e42e5037-4a55-2ea0-8acb-be098ccc9cea",
+    "component_id": "989d9d4a-e15c-a666-4797-b2c957207246",
+    "quantity": 78.0,
+    "unit_price": 68.0,
+    "currency": "USD",
+    "description": "Optical Lens Array",
+    "created_at": "2024-01-12T12:00:00"
+  },
+  {
+    "id": "f8ede0ca-2015-6a72-12e1-53a6932cae01",
+    "order_id": "8d38bbd8-fba6-abf7-cdbc-c65377a7e8b7",
+    "component_id": "cc3ebdde-5ad5-cf06-364d-7c877cd0129d",
+    "quantity": 211.0,
+    "unit_price": 0.85,
+    "currency": "USD",
+    "description": "High-K Dielectric Capacitor",
+    "created_at": "2024-03-12T12:00:00"
+  },
+  {
+    "id": "58321ee4-8471-b4b0-ae1b-9f697740d831",
+    "order_id": "8d38bbd8-fba6-abf7-cdbc-c65377a7e8b7",
+    "component_id": "3ed8c56c-da09-dfa0-5282-8d8044b591f7",
+    "quantity": 46.0,
+    "unit_price": 48.0,
+    "currency": "USD",
+    "description": "Cobalt Cathode Precursor",
+    "created_at": "2024-04-30T12:00:00"
+  },
+  {
+    "id": "f28e4122-5894-f7f1-39b8-6bb2b596ca7c",
+    "order_id": "f75d1e3c-c48d-5650-2e95-22d696792482",
+    "component_id": "f6f7f0cc-29ec-8e49-d1bd-b8c0c71d5e60",
+    "quantity": 168.0,
+    "unit_price": 2200.0,
+    "currency": "USD",
+    "description": "NMC 811 Cell Module",
+    "created_at": "2024-01-21T12:00:00"
+  },
+  {
+    "id": "e6e987ca-b87b-6384-9fdd-de2ea8a2b7ad",
+    "order_id": "f4d375c1-a293-19fa-3240-d7a14027ab7d",
+    "component_id": "eb6c1016-cee6-24d0-9dac-6e8345241ea6",
+    "quantity": 86.0,
+    "unit_price": 88.0,
+    "currency": "USD",
+    "description": "Pressure Die-Cast Housing",
+    "created_at": "2023-12-30T12:00:00"
+  },
+  {
+    "id": "dd20c3bf-d342-af08-0a8b-b5b490494583",
+    "order_id": "f4d375c1-a293-19fa-3240-d7a14027ab7d",
+    "component_id": "4d3485c5-c5c1-4eb4-b27b-3d901a16342c",
+    "quantity": 423.0,
+    "unit_price": 780.0,
+    "currency": "USD",
+    "description": "Wiring Harness Main",
+    "created_at": "2024-05-25T12:00:00"
+  },
+  {
+    "id": "43c07d43-93a7-4792-c561-b8dca4364fcd",
+    "order_id": "f4d375c1-a293-19fa-3240-d7a14027ab7d",
+    "component_id": "770c7798-37cc-863b-f2a0-345990604f62",
+    "quantity": 32.0,
+    "unit_price": 180.0,
+    "currency": "USD",
+    "description": "Battery Management System IC",
+    "created_at": "2023-12-18T12:00:00"
+  },
+  {
+    "id": "7089fc6d-2877-f5d9-0f56-75f8b048faa1",
+    "order_id": "07c0d116-a394-ed54-9e3c-5a886aa56e6d",
+    "component_id": "a092f52a-d4a0-57a7-b0cc-1b3b9793b9b4",
+    "quantity": 232.0,
+    "unit_price": 120.0,
+    "currency": "USD",
+    "description": "Axle Bearing Assembly",
+    "created_at": "2024-02-16T12:00:00"
+  },
+  {
+    "id": "5005680f-24c7-78a5-9b4e-164b5716dc2e",
+    "order_id": "07c0d116-a394-ed54-9e3c-5a886aa56e6d",
+    "component_id": "5cb85aed-f5f6-2c97-6efb-63b11b049863",
+    "quantity": 238.0,
+    "unit_price": 65.0,
+    "currency": "USD",
+    "description": "Graphene Supercapacitor",
+    "created_at": "2024-03-12T12:00:00"
+  },
+  {
+    "id": "f204be89-4a4b-5563-0cf4-77ef18c8a616",
+    "order_id": "c2baf0e0-2179-e3f0-6612-4ab4f9b21e6e",
+    "component_id": "6b88f83d-d97d-c9cd-033d-2bce575aed2c",
+    "quantity": 131.0,
+    "unit_price": 3800.0,
+    "currency": "USD",
+    "description": "Power Inverter Module 150kW",
+    "created_at": "2024-02-24T12:00:00"
+  },
+  {
+    "id": "e6fdd7af-dd84-cacc-f672-94643f8ea40a",
+    "order_id": "c2baf0e0-2179-e3f0-6612-4ab4f9b21e6e",
+    "component_id": "3dc98290-15ea-bb27-30e9-12f2f2b43abf",
+    "quantity": 312.0,
+    "unit_price": 28.5,
+    "currency": "USD",
+    "description": "Neodymium Motor Magnet",
+    "created_at": "2024-04-22T12:00:00"
+  },
+  {
+    "id": "95560a2d-3713-b466-3da0-6476f778c676",
+    "order_id": "c35bec2c-3098-f7b2-500e-15c0b89bdf7f",
+    "component_id": "8861fe18-58e2-5888-0a83-81bec85aca46",
+    "quantity": 258.0,
+    "unit_price": 95.0,
+    "currency": "USD",
+    "description": "Thermal Runaway Prevention Module",
+    "created_at": "2024-03-03T12:00:00"
+  },
+  {
+    "id": "668c8477-0b95-017c-5dae-1201673ba8bd",
+    "order_id": "e1e0fffc-98f6-fd7f-7eb1-62f14806f804",
+    "component_id": "533420e6-d9d8-0b8d-7e8a-dee70758e201",
+    "quantity": 189.0,
+    "unit_price": 4.2,
+    "currency": "USD",
+    "description": "Crystal Oscillator 25MHz",
+    "created_at": "2024-05-19T12:00:00"
+  },
+  {
+    "id": "12d2fa06-49e1-cd13-8da0-04955cce5ba9",
+    "order_id": "e1e0fffc-98f6-fd7f-7eb1-62f14806f804",
+    "component_id": "eb6c1016-cee6-24d0-9dac-6e8345241ea6",
+    "quantity": 285.0,
+    "unit_price": 88.0,
+    "currency": "USD",
+    "description": "Pressure Die-Cast Housing",
+    "created_at": "2024-02-24T12:00:00"
+  }
+]
