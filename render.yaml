@@ -1,3 +1,10 @@
+databases:
+  - name: nexustrace-db
+    databaseName: nexustrace
+    user: nexustrace
+    plan: free
+    region: oregon
+
 services:
   - type: web
     name: nexustrace-api
@@ -12,7 +19,9 @@ services:
       - key: APP_ENV
         value: production
       - key: DATABASE_URL
-        sync: false
+        fromDatabase:
+          name: nexustrace-db
+          property: connectionString
       - key: SECRET_KEY
         generateValue: true
       - key: CORS_ORIGINS
